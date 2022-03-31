@@ -8,8 +8,7 @@
 - ⚡ About me: I'm vegan! 🌱
 - 😄 Pronouns: he/him
 
-#### Github Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hcweigand10&theme=dark&background=000000)](https://git.io/streak-stats)
+![Github Stats](https://github.com/hcweigand10/github-stats/blob/master/generated/overview.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hcweigand10&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+

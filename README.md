@@ -1,7 +1,7 @@
 ### Aloha! Welcome to my Github
 
 
-- 🔭 I’m currently creating a freelancing as a react-based website builder
+- 🔭 I’m currently freelancing as a react-based website builder
 - 💬 Ask me for: A fun fact that will blow your mind
 - ⚡ About me: I'm vegan! 🌱
 - 😄 Pronouns: he/him

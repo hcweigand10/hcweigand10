@@ -1,4 +1,4 @@
-### Aloha! Welcome to my Github
+### Aloha!
 
 
 - 🔭 I’m currently freelancing as a react-based website builder

@@ -1,9 +1,8 @@
 ### Aloha!
 
-
-- 🔭 I’m currently freelancing as a react-based website builder
-- 💬 Ask me for: A fun fact that will blow your mind
-- ⚡ About me: I'm vegan! 🌱
+- 🏠 From: Seattle, WA
+- 📍 Located in: San Francisco, CA
+- 🔧 Skills: JavaScript/TypeScript, Python, React, Node, Express, SQL, MongoDB
 - 😄 Pronouns: he/him
 
 

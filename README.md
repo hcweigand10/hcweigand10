@@ -1,7 +1,7 @@
 ### Aloha!
 
 - 🏠 From: Seattle, WA
-- 📍 Located in: San Francisco, CA
+- 📍 Located in: Santa Barbara, CA
 - 🔧 Skills: JavaScript/TypeScript, Python, React, Node, Express, SQL, MongoDB
 - 😄 Pronouns: he/him
 
